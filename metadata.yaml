@@ -1,0 +1,33 @@
+_repo: Milton-s-Comus_19819
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Milton, John
+    birthdate: 1608
+    deathdate: 1674
+    gutenberg_agent_id: '17'
+    url: http://www.gutenberg.org/2009/agents/17
+    wikipedia: http://en.wikipedia.org/wiki/John_Milton
+  editor:
+    agent_name: Bell, William
+    alias: Bell, W. (William)
+    birthdate: 1860
+    gutenberg_agent_id: '8903'
+    url: http://www.gutenberg.org/2009/agents/8903
+description: ''
+gutenberg_issued: '2006-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: Milton's Comus
+url: http://www.gutenberg.org/ebooks/19819
